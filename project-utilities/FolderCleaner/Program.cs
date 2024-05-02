@@ -16,6 +16,7 @@ static void DeleteFolders(string startLocation, HashSet<string> targetFolders)
         {
             try
             {
+                Console.WriteLine($"Deleting: {directory}");
                 Directory.Delete(directory, true);
             }
             catch (IOException)

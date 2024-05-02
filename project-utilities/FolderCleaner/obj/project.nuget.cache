@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "EU4AbcqEM3VhfmFktALnjPbLYkV0Bvm5vjr5ZfNYE4oazyrb4sOOVxk3wk/6lI32TC8sx1wG9yqsFKIYChBkjQ==",
+  "dgSpecHash": "aSCzq+C6nwCe5ItLvJQGkgRioS6sPsYk1Uk+xu7ooPB2w2A2Xusj0ADbpAxaG/nA08ivGuL5lj6t7Hv2skDBFw==",
   "success": true,
-  "projectFilePath": "D:\\_dev\\RiderProjects\\project-utilities\\project-utilities\\FolderCleaner\\FolderCleaner.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\_dev\\_.Net\\project-utilities\\project-utilities\\FolderCleaner\\FolderCleaner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.4\\microsoft.netcore.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.4\\microsoft.netcore.app.crossgen2.win-x64.8.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

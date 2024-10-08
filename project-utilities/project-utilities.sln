@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigglyMouse", "GigglyMouse\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderCleaner", "FolderCleaner\FolderCleaner.csproj", "{D9073558-248C-4990-AB41-50E265F82E01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameCheapDynamicDns", "NameCheapDynamicDns\NameCheapDynamicDns.csproj", "{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D9073558-248C-4990-AB41-50E265F82E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9073558-248C-4990-AB41-50E265F82E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9073558-248C-4990-AB41-50E265F82E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

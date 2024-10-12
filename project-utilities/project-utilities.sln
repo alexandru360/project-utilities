@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigglyMouse", "GigglyMouse\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderCleaner", "FolderCleaner\FolderCleaner.csproj", "{D9073558-248C-4990-AB41-50E265F82E01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameCheapDynamicDns", "NameCheapDynamicDns\NameCheapDynamicDns.csproj", "{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameCheapDynamicDns", "DockerTestApp\DockerTestApp.csproj", "{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

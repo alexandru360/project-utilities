@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.idea/*
+project-utilities/project-utilities/DockerTestApp/obj/*
+project-utilities/project-utilities/DockerTestApp/bin/*
+
+project-utilities/project-utilities/GigglyMouse/obj/*
+project-utilities/project-utilities/GigglyMouse/bin/*

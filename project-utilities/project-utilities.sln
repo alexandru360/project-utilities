@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderCleaner", "FolderClea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameCheapDynamicDns", "DockerTestApp\DockerTestApp.csproj", "{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRelicTestWebApi", "NewRelicTestWebApi\NewRelicTestWebApi.csproj", "{906533F6-252A-45CE-9C78-AA9542F81318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DB17817-020C-4CFF-AC7E-7DF4C16E4AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906533F6-252A-45CE-9C78-AA9542F81318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906533F6-252A-45CE-9C78-AA9542F81318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906533F6-252A-45CE-9C78-AA9542F81318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906533F6-252A-45CE-9C78-AA9542F81318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

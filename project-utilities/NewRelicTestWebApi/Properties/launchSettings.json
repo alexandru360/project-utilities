@@ -1,0 +1,19 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7164",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "CORECLR_ENABLE_PROFILING": 1,
+        "CORECLR_PROFILER": "{36032161-FFC0-4B61-B559-F6C5D41BAE5A}",
+        "CORECLR_NEWRELIC_HOME": "C:\\ProgramData\\New Relic\\.NET Agent\\", 
+        "NEWRELIC_INSTALL_PATH": "C:Program FilesNew Relic.NET Agent\\"
+      }
+    }
+  }
+}

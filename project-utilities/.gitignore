@@ -1,0 +1,9 @@
+﻿/project-utilities/.idea/*
+/project-utilities/FolderCleaner/obj/*
+/project-utilities/FolderCleaner/bin/*
+/project-utilities/GigglyMouse/obj/*
+/project-utilities/NameCheapDynamicDns/obj/*
+/project-utilities/DockerTestApp/obj/*
+/project-utilities/DockerTestApp/bin/*
+/project-utilities/NewRelicTestWebApi/obj/*
+/project-utilities/NewRelicTestWebApi/bin/*
